@@ -1,0 +1,15 @@
+/Users/liezah/Projects/AbstractClass/bin/Debug/net8.0/AbstractClass
+/Users/liezah/Projects/AbstractClass/bin/Debug/net8.0/AbstractClass.deps.json
+/Users/liezah/Projects/AbstractClass/bin/Debug/net8.0/AbstractClass.runtimeconfig.json
+/Users/liezah/Projects/AbstractClass/bin/Debug/net8.0/AbstractClass.dll
+/Users/liezah/Projects/AbstractClass/bin/Debug/net8.0/AbstractClass.pdb
+/Users/liezah/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liezah/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/liezah/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfo.cs
+/Users/liezah/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/liezah/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.sourcelink.json
+/Users/liezah/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.dll
+/Users/liezah/Projects/AbstractClass/obj/Debug/net8.0/refint/AbstractClass.dll
+/Users/liezah/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.pdb
+/Users/liezah/Projects/AbstractClass/obj/Debug/net8.0/AbstractClass.genruntimeconfig.cache
+/Users/liezah/Projects/AbstractClass/obj/Debug/net8.0/ref/AbstractClass.dll
