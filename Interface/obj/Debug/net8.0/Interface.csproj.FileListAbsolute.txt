@@ -1,0 +1,15 @@
+/Users/liezah/Projects/Interface/bin/Debug/net8.0/Interface
+/Users/liezah/Projects/Interface/bin/Debug/net8.0/Interface.deps.json
+/Users/liezah/Projects/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/Users/liezah/Projects/Interface/bin/Debug/net8.0/Interface.dll
+/Users/liezah/Projects/Interface/bin/Debug/net8.0/Interface.pdb
+/Users/liezah/Projects/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liezah/Projects/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/Users/liezah/Projects/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/Users/liezah/Projects/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/Users/liezah/Projects/Interface/obj/Debug/net8.0/Interface.sourcelink.json
+/Users/liezah/Projects/Interface/obj/Debug/net8.0/Interface.dll
+/Users/liezah/Projects/Interface/obj/Debug/net8.0/refint/Interface.dll
+/Users/liezah/Projects/Interface/obj/Debug/net8.0/Interface.pdb
+/Users/liezah/Projects/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/Users/liezah/Projects/Interface/obj/Debug/net8.0/ref/Interface.dll
